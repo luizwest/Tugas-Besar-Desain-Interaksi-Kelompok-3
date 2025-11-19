@@ -1,15 +1,21 @@
 # 🍴 Calopath - Prototype Aplikasi Pelacak Kalori dan Nutrisi Berbasis Android
 ## 📖 Latar Belakang & SolusI
 ## 💡 Fitur Unggulan
-Target Kalori Pribadi: Sistem secara otomatis menghitung kebutuhan kalori harian pengguna berdasarkan BMR (Basal Metabolic Rate) yang personal dan ilmiah.
+### 🔥 Target Kalori Pribadi
+Sistem otomatis menghitung kebutuhan kalori harian pengguna berdasarkan rumus BMR (Basal Metabolic Rate) yang akurat dan personal.
 
-Lensa Kalori (AI Scanner): Fitur pemindai cerdas yang memungkinkan pengguna mengetahui kalori dan gizi makanan secara instan hanya dengan memindai makanan menggunakan kamera ponsel atau memindai barcode.
+### 📸 Lensa Kalori (AI Scanner)
+Pemindai makanan bertenaga AI. Pengguna cukup memindai makanan melalui kamera atau barcode untuk mendapatkan estimasi kalori dan informasi gizi secara instan.
 
-Jurnal Makanan Digital: Mempermudah pencatatan asupan harian dengan berbagai metode input (manual, pustaka makanan, atau unggah foto).
+### 📝 Jurnal Makanan Digital
+Mencatat asupan harian menjadi mudah dengan berbagai metode input: manual, memilih dari pustaka makanan, atau unggah foto makanan.
 
-Inspirasi Menu Harian: Menyediakan rekomendasi menu makanan yang sehat, lezat, dan sesuai dengan sisa kuota kalori pengguna untuk mengatasi kebingungan dalam memilih makanan.
+### 🍽️ Inspirasi Menu Harian
+Memberikan rekomendasi menu sehat dan lezat yang menyesuaikan sisa kuota kalori pengguna.
 
-Misi Sehat Harian (Gamifikasi): Meningkatkan motivasi pengguna dengan mengubah rutinitas sehat menjadi tantangan seru yang memberikan poin dan peringkat (leaderboard).
+### 🎮 Misi Sehat Harian (Gamifikasi)
+Menjadikan rutinitas sehat lebih menyenangkan dengan misi harian, pengumpulan poin, serta leaderboard.
+
 ## ⚙️ System Flow
 ## 🛠️ Teknologi yang Digunakan
 ## 🎨 Desain & Prototype
