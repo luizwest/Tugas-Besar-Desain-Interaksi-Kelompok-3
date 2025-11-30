@@ -1,4 +1,5 @@
 # 🍴 Calopath - Prototype Aplikasi Pelacak Kalori dan Nutrisi Berbasis Android
+---
 ## 📖 Latar Belakang & Solusi
 Pengembangan **Calopath** dilatarbelakangi oleh keresahan terhadap tren kesehatan di Indonesia yang kian mengkhawatirkan. Berdasarkan data Kementerian Kesehatan (2023), prevalensi obesitas pada penduduk dewasa mencapai angka **23,4%**. Kondisi ini meningkatkan risiko penyakit kronis seperti diabetes dan jantung di usia produktif.
 
@@ -23,9 +24,13 @@ Memberikan rekomendasi menu sehat dan lezat yang menyesuaikan sisa kuota kalori 
 
 ### 🎮 Misi Sehat Harian (Gamifikasi)
 Menjadikan rutinitas sehat lebih menyenangkan dengan misi harian, pengumpulan poin, serta leaderboard.
+
 ---
+
 ## ⚙️ System Flow
+---
 ## 🛠️ Teknologi yang Digunakan
+---
 ## 🎨 Desain & Prototype
 Link Figma : https://www.figma.com/design/aiJ45JpLyTkt3jURsidkdC/Celopath?node-id=0-1&t=uVMQQFHVyRv9xD1V-1
 ## 👤 Tim Pengembang
