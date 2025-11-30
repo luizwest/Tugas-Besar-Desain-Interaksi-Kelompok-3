@@ -1,5 +1,13 @@
 # 🍴 Calopath - Prototype Aplikasi Pelacak Kalori dan Nutrisi Berbasis Android
-## 📖 Latar Belakang & SolusI
+## 📖 Latar Belakang & Solusi
+Pengembangan **Calopath** dilatarbelakangi oleh keresahan terhadap tren kesehatan di Indonesia yang kian mengkhawatirkan. Berdasarkan data Kementerian Kesehatan (2023), prevalensi obesitas pada penduduk dewasa mencapai angka **23,4%**. Kondisi ini meningkatkan risiko penyakit kronis seperti diabetes dan jantung di usia produktif.
+
+Meskipun kesadaran hidup sehat meningkat, banyak individu—khususnya generasi muda—gagal mempertahankan pola makan sehat secara konsisten. Berdasarkan riset pengguna (*user research*) yang kami lakukan, ditemukan tiga hambatan utama (*pain points*):
+
+1.  **Beban Pencatatan Manual:** Pengguna merasa proses input kalori satu per satu sangat merepotkan, memakan waktu, dan membosankan.
+2.  **Kurangnya Motivasi:** Diet sering kali terasa menyiksa dan sepi karena tidak ada sistem umpan balik (*feedback*) yang menyenangkan.
+3.  **Kebingungan Informasi:** Kesulitan menaksir kandungan gizi makanan sehari-hari tanpa label nutrisi yang jelas.
+---
 ## 💡 Fitur Unggulan
 ### 🔥 Target Kalori Pribadi
 Sistem otomatis menghitung kebutuhan kalori harian pengguna berdasarkan rumus BMR (Basal Metabolic Rate) yang akurat dan personal.
@@ -15,7 +23,7 @@ Memberikan rekomendasi menu sehat dan lezat yang menyesuaikan sisa kuota kalori 
 
 ### 🎮 Misi Sehat Harian (Gamifikasi)
 Menjadikan rutinitas sehat lebih menyenangkan dengan misi harian, pengumpulan poin, serta leaderboard.
-
+---
 ## ⚙️ System Flow
 ## 🛠️ Teknologi yang Digunakan
 ## 🎨 Desain & Prototype
