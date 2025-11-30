@@ -42,3 +42,9 @@ Proyek ini disusun oleh mahasiswa Program Studi Teknik Informatika, Institut Tek
 * *Muhammad Fajri Firdaus* (123140050) 
 * *Louis Hutabarat* (123140052)
 * *Muhammad Bimastiar* (123140211)
+
+---
+
+Proyek ini dikembangkan dengan fokus pada perancangan interaksi dan prototyping.
+* *Figma:* Pembuatan Wireframe (Low-fi) hingga High-Fidelity Design.
+* *Google Form:* Melakukan wawancara pengguna
