@@ -5,7 +5,7 @@
 |1|Muhammad Fajri Firdaus|Mengerjakan bagian Home, Kalender, Detail Kalori, dan Aktivitas Olahraga lalu menghubungkannya|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/blob/main/image/High-Fi/Screenshot%202025-12-07%20184153.png)|
 |2|Muhammad Fadhilah Akbar|Membuat tombol pada menu lensa kalori sebagai perpindahan makanan, minuman, dan barcode|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/blob/main/image/High-Fi/Componen/botton%20Makanan%20Minuman%20Barcode.png)|
 |3|Muhammad Fadhilah Akbar|Membuat komponen untuk pada menu utama lensa kalori|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/blob/main/image/High-Fi/Componen/Screenshot%202025-12-07%20181148.png)|
-|4||||
+|4|Muhammad Fadhilah Akbar|membuat untuk kamera pada lensa kalori|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/commit/67cf435cbfcc2c001bb272b0d56439ea6af036f5)|
 |5||||
 |6||||
 |7||||
