@@ -21,10 +21,7 @@ Sistem otomatis menghitung kebutuhan kalori harian pengguna berdasarkan rumus BM
 ### Lensa Kalori (AI Scanner)
 Pemindai makanan bertenaga AI. Pengguna cukup memindai makanan melalui kamera atau barcode untuk mendapatkan estimasi kalori dan informasi gizi secara instan.
 
-### Jurnal Makanan Digital
-Mencatat asupan harian menjadi mudah dengan berbagai metode input: manual, memilih dari pustaka makanan, atau unggah foto makanan.
-
-### Inspirasi Menu Harian
+### Rekomendasi Menu Harian
 Memberikan rekomendasi menu sehat dan lezat yang menyesuaikan sisa kuota kalori pengguna.
 
 ### Misi Sehat Harian (Gamifikasi)
