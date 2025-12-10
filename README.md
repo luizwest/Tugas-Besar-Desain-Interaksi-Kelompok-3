@@ -5,7 +5,7 @@
 ## Latar Belakang & Solusi
 Pengembangan **Calopath** dilatarbelakangi oleh keresahan terhadap tren kesehatan di Indonesia yang kian mengkhawatirkan. Berdasarkan data Kementerian Kesehatan (2023), prevalensi obesitas pada penduduk dewasa mencapai angka **23,4%**. Kondisi ini meningkatkan risiko penyakit kronis seperti diabetes dan jantung di usia produktif.
 
-Meskipun kesadaran hidup sehat meningkat, banyak individu—khususnya generasi muda—gagal mempertahankan pola makan sehat secara konsisten. Berdasarkan riset pengguna (*user research*) yang kami lakukan, ditemukan tiga hambatan utama (*pain points*):
+Meskipun kesadaran hidup sehat meningkat, banyak individu khususnya generasi muda gagal mempertahankan pola makan sehat secara konsisten. Berdasarkan riset pengguna (*user research*) yang kami lakukan, ditemukan tiga hambatan utama (*pain points*):
 
 1.  **Beban Pencatatan Manual:** Pengguna merasa proses input kalori satu per satu sangat merepotkan, memakan waktu, dan membosankan.
 2.  **Kurangnya Motivasi:** Diet sering kali terasa menyiksa dan sepi karena tidak ada sistem umpan balik (*feedback*) yang menyenangkan.
@@ -38,9 +38,12 @@ Menjadikan rutinitas sehat lebih menyenangkan dengan misi harian, pengumpulan po
 ---
 
 ## Desain & Prototype
-Link Figma    : https://www.figma.com/design/aiJ45JpLyTkt3jURsidkdC/Celopath?node-id=0-1&t=uVMQQFHVyRv9xD1V-1
-Link Document : 
-Link Video    :
+
+#### Link Figma    : https://www.figma.com/design/aiJ45JpLyTkt3jURsidkdC/Celopath?node-id=0-1&t=uVMQQFHVyRv9xD1V-1
+
+#### Link Document : 
+
+#### Link Video    :
 
 ---
 
