@@ -43,7 +43,7 @@ Menjadikan rutinitas sehat lebih menyenangkan dengan misi harian, pengumpulan po
 
 #### Link Document : 
 
-#### Link Video    :
+#### Link Video    : https://www.youtube.com/watch?si=VQdQBdFqMn-HB4zP&v=Wi7TOOFtAFY&feature=youtu.be
 
 ---
 
