@@ -38,17 +38,19 @@ Menjadikan rutinitas sehat lebih menyenangkan dengan misi harian, pengumpulan po
 ---
 
 ## Desain & Prototype
-Link Figma : https://www.figma.com/design/aiJ45JpLyTkt3jURsidkdC/Celopath?node-id=0-1&t=uVMQQFHVyRv9xD1V-1
+Link Figma    : https://www.figma.com/design/aiJ45JpLyTkt3jURsidkdC/Celopath?node-id=0-1&t=uVMQQFHVyRv9xD1V-1
+Link Document : 
+Link Video    :
 
 ---
 
 ## Tim Pengembang (Kelompok 3)
 Proyek ini disusun oleh mahasiswa Program Studi Teknik Informatika, Institut Teknologi Sumatera:
-* *Awi Septian Prasetyo* (123140201) 
-* *Muhammad Fadhilah Akbar* (123140003)  
-* *Muhammad Fajri Firdaus* (123140050) 
-* *Louis Hutabarat* (123140052)
-* *Muhammad Bimastiar* (123140211)
+* Awi Septian Prasetyo (123140201) 
+* Muhammad Fadhilah Akbar (123140003)  
+* Muhammad Fajri Firdaus (123140050) 
+* Louis Hutabarat (123140052)
+* Muhammad Bimastiar (123140211)
 
 ---
 
