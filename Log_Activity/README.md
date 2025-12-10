@@ -2,10 +2,8 @@
 
 | No | Nama           | Deskripsi Aktifitas| Bukti Pengerjaan |
 |----|----------------|-----------|-------------------|
-|1|Muhammad Fajri Firdaus|Mengerjakan bagian Home, Kalender, Detail Kalori, dan Aktivitas Olahraga lalu menghubungkannya|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/blob/main/image/High-Fi/Screenshot%202025-12-07%20184153.png)|
-|2|Muhammad Fadhilah Akbar|Membuat tombol pada menu lensa kalori sebagai perpindahan makanan, minuman, dan barcode|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/blob/main/image/High-Fi/Componen/botton%20Makanan%20Minuman%20Barcode.png)|
-|3|Muhammad Fadhilah Akbar|Membuat komponen untuk pada menu utama lensa kalori|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/blob/main/image/High-Fi/Componen/Screenshot%202025-12-07%20181148.png)|
-|4|Muhammad Fadhilah Akbar|membuat untuk kamera pada lensa kalori|![page](https://github.com/luizwest/Tugas-Besar-Desain-Interaksi-Kelompok-3/blob/main/image/High-Fi/Componen/image.png)|
-|5||||
-|6||||
-|7||||
+|1|Awi Septian Prasetyo|Membuat halaman menu beranda (rekomendasi kalori, aktivitas olahraga, dan tantangan harian)||
+|2|Muhammad Fadhillah Akbar|Membuat halaman menu lensa kalori||
+|3|Muhammad Fajri Firdaus|Membuat halaman menu identifikasi pengguna||
+|4|Louis Hutabarat|Membuat repository github, membuat halaman tantangan harian dan gamifikasi pengguna||
+|5|Muhammad Bimastiar|Membuat halaman layar pembuka dan login||
