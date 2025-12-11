@@ -56,3 +56,27 @@ Proyek ini disusun oleh mahasiswa Program Studi Teknik Informatika, Institut Tek
 ## Proyek ini dikembangkan dengan fokus pada perancangan interaksi dan prototyping.
 * *Figma:* Pembuatan Wireframe (Low-fi) hingga High-Fidelity Design.
 * *Google Form:* Melakukan wawancara pengguna
+
+---
+
+## Proyek ini dikembangkan dengan fokus pada perancangan interaksi dan prototyping.
+
+
+
+## Taskflow
+
+Berikut adalah alur tugas (taskflow) utama pengguna pada aplikasi **Calopath**. Diagram taskflow juga terlampir di bawah.
+
+- **Mulai:** Buka aplikasi → Layar pembuka.
+- **Autentikasi:** Login atau Daftar akun.
+- **Setup Profil:** Masukkan data pribadi dan target kalori.
+- **Beranda:** Melihat ringkasan harian dan sisa kuota kalori.
+- **Tambah Makanan:** Pindai menggunakan *Lensa Kalori* (AI) atau input manual.
+- **Konfirmasi & Simpan:** Sesuaikan porsi lalu simpan entri makanan.
+- **Rekomendasi:** Menerima saran menu harian yang sesuai sisa kalori.
+- **Misi & Gamifikasi:** Ikuti misi harian dan cek leaderboard.
+- **Review:** Melihat ringkasan harian/mingguan serta histori konsumsi.
+
+**Diagram Taskflow:**
+
+![Taskflow Diagram](Image/taksflow.drawio.png)
