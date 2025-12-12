@@ -28,11 +28,6 @@ Memberikan rekomendasi menu sehat dan lezat yang menyesuaikan sisa kuota kalori 
 Menjadikan rutinitas sehat lebih menyenangkan dengan misi harian, pengumpulan poin, serta leaderboard.
 
 ---
-
-## System Flow
-
----
-
 ## Desain & Prototype
 
 #### Link Figma    : https://www.figma.com/design/aiJ45JpLyTkt3jURsidkdC/Celopath?node-id=0-1&t=uVMQQFHVyRv9xD1V-1
